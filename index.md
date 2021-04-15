@@ -17,6 +17,9 @@ I started working as a developer back in 2019 and my experience so far has been 
 ## Personal interests
 
 - Software Development: Not much of a surprise but I have a keen interest in Software Development and enjoy reading daily articles on it to keep up-to-date.
+
 - Meditation: I enjoy taking time out of my for myself. :)
 
 - Hiking: I enjoy taking advantage of living in the West of Scotland!
+
+- Travelling: I have had the pleasure of visiting many great places like Italy and Japan and would love to visit more.
