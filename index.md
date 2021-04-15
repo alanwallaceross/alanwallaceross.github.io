@@ -1,4 +1,6 @@
-## Alan Ross
+## About me
+
+Hi, I'm Alan.
 
 I am a software developer who is currently working full-time at Barclays.
 
