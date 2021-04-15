@@ -23,3 +23,8 @@ I started working as a developer back in 2019 and my experience so far has been 
 - Hiking: I enjoy taking advantage of living in the West of Scotland!
 
 - Travelling: I have had the pleasure of visiting many great places like Italy and Japan and would love to visit more.
+
+### Social Media
+
+- [Alan's Github](https://github.com/alanwallaceross)
+- [Alan's LinkedIn](https://www.linkedin.com/in/alan-ross-37b40060/)
