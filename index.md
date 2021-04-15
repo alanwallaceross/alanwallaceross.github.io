@@ -1,4 +1,4 @@
-## Alan Ross - Welcome to my Github page
+## Alan Ross
 
 I am a software developer who is currently working full-time at Barclays.
 
