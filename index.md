@@ -4,7 +4,7 @@ Hi, I'm Alan.
 
 I am a software developer who is currently working full-time at Barclays.
 
-I started working as a developer back in 2019 and my experience so far has been mostly using the React, Node, DynamoDB and Express. I've also recently been gaining more experience with GraphQL, Apollo and MySQL.
+I started working as a developer back in 2019 and my experience so far has been mostly using the React, Node, DynamoDB and Express. I've also recently been gaining more experience with GraphQL, Apollo, Sequelize and MariaDB.
 
 ## Recent Projects
 
